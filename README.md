@@ -16,3 +16,4 @@ Pyodbc
 
 Additionally you need to create a dsn for the pyodbc.
 You can find detailed steps and tutorial in the wiki page of this repository.
+https://github.com/xavier211192/Python_Sql_Server/wiki
