@@ -10,8 +10,8 @@ Pandas is an important package used in handling large data sets such as tables f
 
 Requirements:
 The required packages are listed in the requirements.txt file.
-Pandas
-SqlAlchemy
+Pandas;
+SqlAlchemy;
 Pyodbc
 
 Additionally you need to create a dsn for the pyodbc.
